@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">Me llamo Ivan, soy programador web. Estoy en constante aprendizaje para dar lo mejor de mi.</p>
+<p align="center">Me llamo Ivan, soy desarrollador web. Estoy en constante aprendizaje para dar lo mejor de mi.</p>
 
 ###
 
